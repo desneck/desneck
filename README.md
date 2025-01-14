@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Berat</h1>
 <h3 align="center">Full-Stack(ish) Developer</h3>
 
-- 🔭 I’m currently working on [Opero](opero.calisys.co)
-
-- 💬 Ask me about **NextJS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berat-berk-çalıkıran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berat-berk-çalıkıran" height="30" width="40" /></a>
